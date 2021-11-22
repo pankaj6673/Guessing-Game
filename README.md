@@ -13,3 +13,6 @@ A program that picks a random integer from 1 to 100, and has players guess the n
 4. When the player's guess equals the number, tell them they've guessed correctly and how many guesses it took!
 
 Good Luck!!!!!
+
+![image](https://user-images.githubusercontent.com/32454890/142951213-abf1aadf-e805-4b88-87f9-03b0264ad327.png)
+
