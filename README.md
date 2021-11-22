@@ -14,5 +14,7 @@ A program that picks a random integer from 1 to 100, and has players guess the n
 
 Good Luck!!!!!
 
+A demonstration below
+
 ![image](https://user-images.githubusercontent.com/32454890/142951213-abf1aadf-e805-4b88-87f9-03b0264ad327.png)
 
